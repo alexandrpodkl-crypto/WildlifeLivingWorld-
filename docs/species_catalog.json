@@ -1,0 +1,13 @@
+{
+  "goal": "100+ real-world-inspired species",
+  "land_predators": ["brown_bear","black_bear","polar_bear","tiger","lion","leopard","jaguar","cheetah","puma","lynx","wolf","coyote","red_fox","arctic_fox","crocodile","alligator"],
+  "land_herbivores": ["deer","elk","moose","wild_boar","bison","zebra","giraffe","elephant","rhinoceros","hippopotamus","antelope","ibex","wild_horse","kangaroo"],
+  "small_mammals": ["otter","badger","beaver","porcupine","squirrel","hedgehog","rabbit","hare","gorilla","chimpanzee","orangutan","baboon"],
+  "birds": ["eagle","golden_eagle","hawk","falcon","owl","raven","crow","seagull","swan","duck","goose","heron","pelican","flamingo","parrot","toucan","ostrich","penguin"],
+  "marine_mammals": ["blue_whale","humpback_whale","sperm_whale","orca","dolphin","beluga","seal","sea_lion","walrus","manatee"],
+  "marine_predators": ["great_white_shark","tiger_shark","hammerhead_shark","bull_shark","mako_shark","reef_shark","sawfish","moray_eel"],
+  "marine_life": ["manta_ray","stingray","sea_turtle","octopus","giant_pacific_octopus","jellyfish","crab","lobster","shrimp","seahorse","anglerfish"],
+  "fish": ["salmon","cod","tuna","sardine","mackerel","clownfish","pufferfish","sunfish","barracuda","swordfish","marlin","eel"],
+  "reptiles_amphibians": ["python","boa","cobra","rattlesnake","iguana","chameleon","komodo_dragon","frog","toad","salamander"],
+  "insects_arthropods": ["butterfly","moth","dragonfly","beetle","stag_beetle","mantis","grasshopper","cricket","spider","scorpion","firefly"]
+}

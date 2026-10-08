@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "wildlife",
+  "version": "${version}",
+  "name": "Wildlife: Living World",
+  "description": "Realistic wildlife ecosystems for Minecraft 1.21.1.",
+  "authors": ["Wildlife Living World"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.wildlife.livingworld.WildlifeMod"],
+    "client": ["com.wildlife.livingworld.client.WildlifeClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "1.21.1",
+    "fabric-api": ">=0.116.15+1.21.1",
+    "java": ">=21"
+  }
+}
